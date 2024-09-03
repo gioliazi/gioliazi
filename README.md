@@ -50,6 +50,9 @@
             </a> &nbsp;
             </a> </p>
 
+Venho trabalhando principalmente com **Python** utilizando bibliotecas *Pandas* desenvolvendo projetos de Análises de Dados.
+Hoje estou bastante focado nessa área desenvolvendo projetos que vão desde a **limpeza e organização de dados** á previsões usando **modelos de classificação** e apresentação dos dados com **Power BI** ou ferramentas de **SQL**.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giovanni-periago-liazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-periago-liazi" height="30" width="40" /></a> 
